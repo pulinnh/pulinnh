@@ -30,7 +30,7 @@
     </tr>
   </table>
 </p>
-
+<br>
 
 <hr>
 <h3 align="center"><b>🚀 About Me</b></h3>
