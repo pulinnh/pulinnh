@@ -10,8 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Start+Debugging+The+Chaos;%3E+If+It+Compiles,+It's+Staying;%3E+Code+Like+A+Menace" alt="Typing SVG" />
 </p>
 
+<!-- Seção Connect (Monocromática) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
+  <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-black?style=for-the-badge&logo=apple&logoColor=white&color=black" alt="Mail" /></a>
 </p>
 
 <h4 align="center">Systems Analysis and Development | FIAP</h4>
@@ -49,19 +50,19 @@
 
 <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
 
-<!-- Limpa a flutuação do gato para forçar o conteúdo abaixo a ir para a linha de baixo -->
-<br clear="all">
+<br clear="left">
 
 <hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center"><em>Languages</em></p>
 
+<!-- Seção Tech Stack (Monocromática) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white&color=black" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&color=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="Java" />
 </p>
 
 <hr>
