@@ -16,4 +16,10 @@
 
 <h5 align="center">ADS STUDENT | FIAP</h5>
 
+<p align="center">
+  <a href="https://open.spotify.com/user/yfvp6pc39rs8his0x7horvm54" target="_blank">
+    <img src="https://spotify-readme-stats.vercel.app/api/top-tracks?user=yfvp6pc39rs8his0x7horvm54" alt="Top Tracks Spotify" width="400" />
+  </a>
+</p>
+
 
