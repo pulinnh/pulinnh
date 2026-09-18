@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <!-- Substitua a URL abaixo pelo link da SUA imagem -->
+  <img src="<img width="540" height="231" alt="download" src="https://github.com/user-attachments/assets/e37198ab-f8c6-41ef-822e-ab843c30f2fc" />
+</p>
 
-<!--
-**pulinnh/pulinnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, Imma Paulo</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building reliable backend systems with clean architecture and scalable solutions.
+</p>
+
+---
