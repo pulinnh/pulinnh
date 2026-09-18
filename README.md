@@ -31,18 +31,18 @@
   </table>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<br>
+<p align="center"><b>🚀 About Me</b></p>
+<br>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
-  <tr>
-    <td width="60%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
-      <br />
-      <p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
-      <p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
-      <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
-    </td>
-    <td width="40%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="https://github.com/user-attachments/assets/250847ea-a45d-4171-b781-efb836c39d94" alt="About Me Graphic" width="280" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/250847ea-a45d-4171-b781-efb836c39d94" alt="About Me Graphic" width="280" align="right" style="margin-left: 20px; margin-bottom: 20px;" />
+</p>
+
+<p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
+
+<p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
+
+<p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
+
+<br clear="left">
