@@ -33,7 +33,10 @@
 <br>
 
 <hr>
-<h3 align="center"><b>🚀 About Me</b></h3>
+<h3 align="center">
+  <img src="https://github.com/user-attachments/assets/d396d06f-e7d8-4cb4-ac63-f13750a611d9" width="30" style="vertical-align: middle;" alt="Rocket GIF" />
+  <b>About Me</b>
+</h3>
 <br>
 
 <p align="center">
