@@ -23,7 +23,7 @@
         </a>
       </td>
       <td align="center" width="50%" valign="middle">
-        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding&mins=24&font=mono&label=pulin&body=8c543b&accent=b86e4c&text=dbd6d2&bg=transparent" width="100%" height="220" alt="pulin coding mascot" />
+        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding&mins=24&font=mono&label=pulin&body=8c543b&accent=b86e4c&text=dbd6d2&bg=transparent&border=false" width="100%" height="220" alt="pulin coding mascot" />
       </td>
     </tr>
   </table>
