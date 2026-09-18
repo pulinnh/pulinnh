@@ -1,4 +1,4 @@
-<p align="center">
+\<p align="center">
   <img src="https://github.com/user-attachments/assets/a86259eb-6735-44f4-9c5a-b116bd607bd6" width="100%" alt="Futaba Persona 5 GIF" />
 </p>
 
@@ -14,6 +14,8 @@
   <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
 </p>
 
+<h6 align="center">Systems Analysis and Development</h6>
+
 <p align="center">
   <table border="1">
     <tr>
@@ -28,4 +30,6 @@
     </tr>
   </table>
 </p>
+
+
 
