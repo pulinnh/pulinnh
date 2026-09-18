@@ -45,10 +45,12 @@
 
 <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
 
-<br clear="left">
+<!-- Limpa a flutuação do gato para forçar o conteúdo abaixo a ir para a linha de baixo -->
+<br clear="all">
 
-<br>
-<p align="center"><b>🛠️ Tech Stack</b></p>
+<hr>
+
+<h3 align="center">🛠️ Tech Stack</h3>
 <p align="center"><em>Languages</em></p>
 
 <p align="center">
@@ -57,3 +59,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
+
+<hr>
