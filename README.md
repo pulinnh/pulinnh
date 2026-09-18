@@ -49,29 +49,19 @@
 
 <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
 
-<br clear="left">
+<!-- Limpa a flutuação do gato para forçar o conteúdo abaixo a ir para a linha de baixo -->
+<br clear="all">
 
 <hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center"><em>Languages</em></p>
 
-<!-- Seção Tech Stack Centralizada (com Lista Flexbox) -->
-<div align="center">
-  <ul style="display: flex; justify-content: center; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; max-width: 600px;">
-    <li style="margin: 5px;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </li>
-    <li style="margin: 5px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </li>
-    <li style="margin: 5px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </li>
-    <li style="margin: 5px;">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    </li>
-  </ul>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
 <hr>
