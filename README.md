@@ -31,13 +31,12 @@
   </table>
 </p>
 
-<br>
-<p align="center"><b>🚀 About Me</b></p>
-<br>
+<h2 align="center">🚀 About Me</h2>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
   <tr>
     <td width="60%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
+      <br />
       <p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
       <p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
       <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
