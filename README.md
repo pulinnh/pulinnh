@@ -3,11 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="https://github.com/user-attachments/assets/e4fb8bb6-4817-437d-8e01-e5523e24f4ac" width="35" height="35" alt="Waving Hand" />, Imma Paulo
+  Hi <img src="https://github.com/user-attachments/assets/4cbafa43-03d2-46b7-8bc8-cba6a8209db5" width="35" height="35" alt="Waving Hand" />, Imma Paulo
 </h1>
 
-<h3 align="center">Systems Analyst and Software Developer</h3>
-
-<p align ="center">
-  <img src="
-
+<h3 align="center">Systems Analyst</h3>
