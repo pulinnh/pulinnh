@@ -1,4 +1,4 @@
-\<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a86259eb-6735-44f4-9c5a-b116bd607bd6" width="100%" alt="Futaba Persona 5 GIF" />
 </p>
 
@@ -33,19 +33,16 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: 0px solid transparent; background: transparent;">
-    <tr>
-      <td width="60%" valign="top" style="border: none !important; background: transparent; padding-right: 20px;">
-        <br />
-        <p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
-        <p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
-        <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
-      </td>
-      <td width="40%" align="center" valign="middle" style="border: none !important; background: transparent;">
-        <img src="https://github.com/user-attachments/assets/250847ea-a45d-4171-b781-efb836c39d94" alt="About Me Graphic" width="280" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
+  <tr>
+    <td width="60%" valign="top" style="border: none; background: transparent; padding-right: 20px;">
+      <br />
+      <p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
+      <p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
+      <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
+    </td>
+    <td width="40%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img src="https://github.com/user-attachments/assets/250847ea-a45d-4171-b781-efb836c39d94" alt="About Me Graphic" width="280" />
+    </td>
+  </tr>
+</table>
