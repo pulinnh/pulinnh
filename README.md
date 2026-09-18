@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Substitua a URL abaixo pelo link da SUA imagem -->
-  <img src="<img width="540" height="231" alt="download" src="https://github.com/user-attachments/assets/e37198ab-f8c6-41ef-822e-ab843c30f2fc" />
+  <img src="<img width="540" height="231" alt="download" src="https://github.com/user-attachments/assets/55f05761-8b51-4fed-9181-ce4c3aa126e1" />"
 </p>
 
 <h1 align="center">Hi 👋, Imma Paulo</h1>
