@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="540" height="231" alt="download" src="https://github.com/user-attachments/assets/a86259eb-6735-44f4-9c5a-b116bd607bd6" />B" width="100%" alt="Futaba Persona 5 GIF" />
+  <img src="https://github.com/user-attachments/assets/a86259eb-6735-44f4-9c5a-b116bd607bd6" width="100%" alt="Futaba Persona 5 GIF" />
 </p>
 
 <h1 align="center">Hi 👋, Imma Paulo</h1>
