@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Start+Debugging+The+Chaos;%3E+If+It+Compiles,+It's+Staying;%3E+Code+Like+A+Menace" alt="Typing SVG" />
 </p>
 
-<!-- Seção Connect (Original) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
 </p>
@@ -57,24 +56,22 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center"><em>Languages</em></p>
 
-<!-- Seção Tech Stack Corrigida e Centralizada (com Tabela Invisível) -->
+<!-- Seção Tech Stack Centralizada (com Lista Flexbox) -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-    <tr>
-      <td align="center" style="padding: 5px;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </td>
-      <td align="center" style="padding: 5px;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-      <td align="center" style="padding: 5px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </td>
-      <td align="center" style="padding: 5px;">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      </td>
-    </tr>
-  </table>
+  <ul style="display: flex; justify-content: center; list-style: none; padding: 0; margin: 0; flex-wrap: wrap; max-width: 600px;">
+    <li style="margin: 5px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </li>
+    <li style="margin: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </li>
+    <li style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </li>
+    <li style="margin: 5px;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    </li>
+  </ul>
 </div>
 
 <hr>
