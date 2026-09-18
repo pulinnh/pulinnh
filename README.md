@@ -14,15 +14,6 @@
   <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
 </p>
 
-<h5 align="center">ADS STUDENT | FIAP</h5>
-
-<p align="center">
-<p align="center">
-  <a href="https://open.spotify.com/user/yfvp6pc39rs8his0x7horvm54" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yfvp6pc39rs8his0x7horvm54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify Currently Playing" width="450" />
-  </a>
-</p>
-
 <p align="center">
   <table>
     <tr>
@@ -32,7 +23,7 @@
         </a>
       </td>
       <td align="center">
-        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=idle&theme=dark" width="400" alt="Coding Status Mascot" />
+        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding&label=pulin&body=8c543b&accent=b86e4c&text=413225&bg=transparent&border=false" width="400" alt="pulin coding mascot" />
       </td>
     </tr>
   </table>
