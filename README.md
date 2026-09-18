@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a86259eb-6735-44f4-9c5a-b116bd607bd6" width="100%" alt="Futaba Persona 5 GIF" />
+  <img src="https://github.com/user-attachments/assets/7708ce49-b74c-485d-b157-aa6ac97de3e1" width="100%" alt="New Header Banner" />
 </p>
 
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , Imma Paulo Sobreira</h1>
