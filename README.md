@@ -7,5 +7,5 @@
 <h3 align="center">System Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Start+Debugging+The+Chaos;If+It+Compiles,+It's+Staying;Code+Like+A+Menace" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Start+Debugging+The+Chaos;%3E+If+It+Compiles,+It's+Staying;%3E+Code+Like+A+Menace" alt="Typing SVG" />
 </p>
