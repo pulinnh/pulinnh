@@ -32,7 +32,7 @@
 </p>
 
 <br>
-<p align="center"><b>🚀 About Me</b></p>
+<h3 align="center"><b>🚀 About Me</b></h3>
 <br>
 
 <p align="center">
