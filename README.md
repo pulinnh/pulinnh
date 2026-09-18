@@ -31,8 +31,8 @@
   </table>
 </p>
 
-<hr>
 
+<hr>
 <br>
 <h3 align="center"><b>🚀 About Me</b></h3>
 <br>
