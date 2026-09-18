@@ -55,19 +55,22 @@
 <hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
-<p align="center"><em>Languages</em></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f632f38f-cd9c-487b-9149-c8eceebd751c" alt="Tech Stack Graphic" width="220" align="left" style="margin-right: 20px; margin-bottom: 20px;" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<br clear="all">
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="30%" valign="middle">
+      <img src="https://github.com/user-attachments/assets/f632f38f-cd9c-487b-9149-c8eceebd751c" alt="Tech Stack Graphic" width="180" />
+    </td>
+    <td align="center" width="70%" valign="middle">
+      <p align="center"><em>Languages</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <hr>
-
-
-
