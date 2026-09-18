@@ -23,4 +23,18 @@
   </a>
 </p>
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://open.spotify.com/user/yfvp6pc39rs8his0x7horvm54" target="_blank">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yfvp6pc39rs8his0x7horvm54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="400" alt="Spotify Currently Playing" />
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=idle&theme=dark" width="400" alt="Coding Status Mascot" />
+      </td>
+    </tr>
+  </table>
+</p>
 
