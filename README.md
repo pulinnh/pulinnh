@@ -31,6 +31,20 @@
   </table>
 </p>
 
-<p align="center"> About me 
-</p>
+<h2 align="center">🚀 About Me</h2>
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <br />
+      <p>I work as a <b>Systems Analyst</b> at <b>ACEMPRO</b>, focusing on my technical development in this new role.</p>
+      <p>In 2026, I began a Higher Technology degree in <b>Systems Analysis and Development</b> at <b>FIAP</b>, marking the start of my transition into the technology field.</p>
+      <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/250847ea-a45d-4171-b781-efb836c39d94" alt="About Me Graphic" width="300" />
+    </td>
+  </tr>
+</table>
+
 
