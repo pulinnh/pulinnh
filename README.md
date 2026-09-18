@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e91afd0-b6e4-47ce-ab80-784562358d15" width="100%" alt="New Header Banner" />
+  <img src="https://github.com/user-attachments/assets/f909db36-79cd-4487-9a18-fa75a6fc0579" width="100%" alt="New Header Banner" />
 </p>
 
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , Imma Paulo Sobreira</h1>
