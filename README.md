@@ -28,3 +28,36 @@
     </tr>
   </table>
 </p>
+
+```text
+                                                  ......                      
+                                             ..':cllllc:'.                    
+                                           .':ldxxxxxxxxxdl:.                 
+                                         .':ldxxxxxxxxxxxxxxxl'.              
+                                       .':ldxxxxxxxxxxxxxxxxxxxo:.            
+                                     .':ldxxxxxxxxxxxxxxxxxxxxxxxo;.          
+                                   .':ldxxxxxxxxxxxxxxxxxxxxxxxxxxxo;.        
+                                 .':lx0XNWMMMMMMMWNX0xxxxxxxxxxxxxxxo;.       
+                               .':lx0NMMMMMMMMMMMMMMMWNX0xxxxxxxxxxxxo;.      
+                              ':lx0NMMMMMMMMMMMMMMMMMMMMMWNX0xxxxxxxxxxo;.    
+                            ':lx0NMMMMMMMMMMMMMMMMMMMMMMMMMWNX0xxxxxxxo;.   
+                          ':lx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0xxxxo;.  
+                        ':lx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0xo;. 
+                      ':lx0NMMMMMMMMMMMMMMMMMMMWX0kkO0XNWMMMMMMMMMMMMMWNX0; 
+                    ':lx0NMMMMMMMMMMMMMMMMMWN0xo;:'.'...';ox0NWMMMMMMMMMMMMMW;
+                  ':lx0NMMMMMMMMMMMMMMMMWXko;..          ..;okXWMMMMMMMMMMMMM;
+                ':lx0NMMMMMMMMMMMMMMMWXko;..                ..;okXWMMMMMMMMMM;
+              ':lx0NMMMMMMMMMMMMMMMWXko;..                    ..;okXWMMMMMMMM;
+            ':lx0NMMMMMMMMMMMMMMMWXko;..                        ..;okXWMMMMMM;
+          ':lx0NMMMMMMMMMMMMMMMWXko;..                            ..;okXWMMMM;
+        ':lx0NMMMMMMMMMMMMMMMWXko;..                                ..;okXWMM;
+      ':lx0NMMMMMMMMMMMMMMMWXko;..                                    ..;okXW;
+    ':lx0NMMMMMMMMMMMMMMMWXko;..                                        ..;ok;
+
+  _____            _                  
+ |  __ \          | |                 
+ | |__) |__ _  _ _| | ___             
+ |  ___/ _` || | | | |/ _ \           
+ | |  | (_| || |_| | | (_) |          
+ |_|   \__,_| \__,_|_|\___/           
+```
