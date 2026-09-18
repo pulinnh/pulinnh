@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-**ADS STUDENT | FIAP**
+  <b>ADS STUDENT | FIAP</b>
 </p>
