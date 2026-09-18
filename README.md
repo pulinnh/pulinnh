@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <b>ADS STUDENT | FIAP</b>
+  <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-3399FF?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
+  <b>ADS STUDENT | FIAP</b>
 </p>
+
+
