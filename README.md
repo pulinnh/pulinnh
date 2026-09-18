@@ -15,15 +15,15 @@
 </p>
 
 <p align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr valign="middle">
-      <td align="center" valign="middle">
+  <table>
+    <tr>
+      <td align="center">
         <a href="https://open.spotify.com/user/yfvp6pc39rs8his0x7horvm54" target="_blank">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yfvp6pc39rs8his0x7horvm54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" height="150" alt="Spotify Currently Playing" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=yfvp6pc39rs8his0x7horvm54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="400" alt="Spotify Currently Playing" />
         </a>
       </td>
-      <td align="center" valign="middle">
-        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding&mins=24&font=mono&label=pulin&body=8c543b&accent=b86e4c&text=dbd6d2&bg=transparent&border=false" height="150" alt="pulin coding mascot" />
+      <td align="center">
+        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?status=coding&mins=24&font=mono&label=pulin&body=8c543b&accent=b86e4c&text=dbd6d2&bg=transparent&border=false" width="400" alt="pulin coding mascot" />
       </td>
     </tr>
   </table>
