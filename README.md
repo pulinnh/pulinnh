@@ -49,31 +49,19 @@
 
 <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
 
-<br clear="left">
+<!-- Limpa a flutuação do gato para forçar o conteúdo abaixo a ir para a linha de baixo -->
+<br clear="all">
 
 <hr>
 
-<!-- Nova Seção Tech Stack (Organizada e Centralizada em Tabela) -->
-<div align="center">
-  <h3><b>🛠️ Tech Stack</b></h3>
-  <em>Languages</em>
-  <br><br>
-  <table border="0" cellspacing="0" cellpadding="5" align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center"><em>Languages</em></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
 <hr>
