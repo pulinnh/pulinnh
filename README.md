@@ -58,16 +58,36 @@
 <p align="center"><em>Languages</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://github.com/user-attachments/assets/1ce96bcf-7683-4ed1-a0a5-47d047be5958" alt="Tech Stack Radar" width="380" />
 </p>
 
 <hr>
 
+<h3 align="center">📌 Featured Projects</h3>
 
+<p align="center">
+  <a href="https://github.com/pulinnh/REPO-1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-1&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  </a>
+  <a href="https://github.com/pulinnh/REPO-2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-2&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  </a>
+</p>
 
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pulinnh&show_icons=true&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulinnh&layout=compact&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&border_color=00FF66" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulinnh&theme=dark&background=000000&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+</p>
+
+<hr>
 
 <h3 align="center">📚 Currently Learning</h3>
 
