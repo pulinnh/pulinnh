@@ -58,10 +58,14 @@
 <p align="center"><em>Languages</em></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1ce96bcf-7683-4ed1-a0a5-47d047be5958" alt="Tech Stack Radar" width="380" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 <hr>
+
 
 <h3 align="center">📌 Featured Projects</h3>
 
