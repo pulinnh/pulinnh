@@ -87,11 +87,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pulinnh&show_icons=true&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulinnh&layout=compact&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&border_color=00FF66" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulinnh&theme=dark&background=000000&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
