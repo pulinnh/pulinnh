@@ -67,31 +67,7 @@
 <hr>
 
 
-<h3 align="center">📌 Featured Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/pulinnh/REPO-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-1&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  </a>
-  <a href="https://github.com/pulinnh/REPO-2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-2&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  </a>
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pulinnh&show_icons=true&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulinnh&layout=compact&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&border_color=00FF66" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulinnh&theme=dark&background=000000&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
-<hr>
 
 <h3 align="center">📚 Currently Learning</h3>
 
