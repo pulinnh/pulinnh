@@ -2,16 +2,16 @@
   <img src="https://github.com/user-attachments/assets/5102a1ce-ddb7-4175-91d9-deeff8a6f46c" width="100%" alt="Header Banner" />
 </p>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48" alt="Waving Hand GIF"></a> , I'm Paulo Sobreira</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , Imma Paulo Sobreira</h1>
 
 <h3 align="center">System Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Start+Debugging+The+Chaos;%3E+If+It+Compiles,+It's+Staying;%3E+Odeio+a+Gabriella+Barriquello" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=%3E+Start+Debugging+The+Chaos;%3E+If+It+Compiles,+It's+Staying;%3E+Code+Like+A+Menace" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
+  <a href="https://github.com/pulinnh" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="https://www.linkedin.com/in/paulo-sobreira-425143355/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:paulogsobreira@icloud.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mail" /></a>
 </p>
 
 <h4 align="center">Systems Analysis and Development | FIAP</h4>
@@ -49,7 +49,7 @@
 
 <p>With a growing interest in <b>Data</b>, <b>Systems</b>, and <b>Artificial Intelligence</b>, I aim to combine my studies with professional experience, contributing to the team while continuing to grow and improve.</p>
 
-<!-- Limpa a flutuação do gato para forçar o conteúdo abaixo a ir para a linha de baixo -->
+<!-- Limpa a flutuação do cat para forçar o conteúdo abaixo a ir para a linha de baixo -->
 <br clear="all">
 
 <hr>
@@ -58,10 +58,47 @@
 <p align="center"><em>Languages</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://github.com/user-attachments/assets/1ce96bcf-7683-4ed1-a0a5-47d047be5958" alt="Tech Stack Radar" width="380" />
 </p>
 
 <hr>
+
+<h3 align="center">📌 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/pulinnh/REPO-1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-1&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  </a>
+  <a href="https://github.com/pulinnh/REPO-2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-2&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pulinnh&show_icons=true&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulinnh&layout=compact&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&border_color=00FF66" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulinnh&theme=dark&background=000000&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+</p>
+
+<hr>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Systems%20Analysis%20%26%20Development-000000?style=for-the-badge&logoColor=00FF66" alt="Systems Analysis" />
+  <img src="https://img.shields.io/badge/Data-000000?style=for-the-badge&logoColor=00FF66" alt="Data" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logoColor=00FF66" alt="AI" />
+</p>
+
+<hr>
+
+<p align="center">
+  <sub>💬 Feel free to reach out — always open to connect and learn together.</sub>
+</p>
