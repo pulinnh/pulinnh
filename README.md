@@ -66,11 +66,11 @@
 <h3 align="center">📌 Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/pulinnh/REPO-1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-1&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  <a href="https://github.com/pulinnh/projeto-alura-jogo-secreto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=projeto-alura-jogo-secreto&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
   </a>
-  <a href="https://github.com/pulinnh/REPO-2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=REPO-2&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
+  <a href="https://github.com/pulinnh/1TDSPR-2026">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=1TDSPR-2026&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
   </a>
 </p>
 
