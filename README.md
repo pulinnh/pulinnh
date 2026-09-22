@@ -65,14 +65,22 @@
 
 <h3 align="center">📌 Featured Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/pulinnh/projeto-alura-jogo-secreto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=projeto-alura-jogo-secreto&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  </a>
-  <a href="https://github.com/pulinnh/1TDSPR-2026">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=pulinnh&repo=1TDSPR-2026&theme=dark&bg_color=000000&title_color=00FF66&text_color=ffffff&icon_color=00FF66&border_color=00FF66" />
-  </a>
-</p>
+<table align="center" border="1" cellpadding="12" cellspacing="0" style="border-color:#00FF66;">
+  <tr>
+    <td align="center" bgcolor="#000000">
+      <a href="https://github.com/pulinnh/projeto-alura-jogo-secreto" style="color:#00FF66; text-decoration:none;">
+        <b>🎮 projeto-alura-jogo-secreto</b>
+      </a>
+      <br><sub>HTML</sub>
+    </td>
+    <td align="center" bgcolor="#000000">
+      <a href="https://github.com/pulinnh/1TDSPR-2026" style="color:#00FF66; text-decoration:none;">
+        <b>📚 1TDSPR-2026</b>
+      </a>
+      <br><sub>HTML · Repositório da turma 1TDSPR 2026</sub>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
