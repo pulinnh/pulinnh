@@ -25,7 +25,7 @@
         </a>
       </td>
       <td align="center" width="50%" valign="middle">
-        <img src="https://pet.simiyonvinscentsamuel.tech/mascot.svg?id=Pulin&style=crab&theme=candy&label=pulin&text=ffffff&bg=transparent&border=false" />
+        <img src="http://localhost:3000/mascot.svg?style=ghost&theme=grape&status=coding&label=Pulin" />
       </td>
     </tr>
   </table>
